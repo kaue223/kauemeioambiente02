@@ -39,7 +39,7 @@ export const perguntas = [
                     "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
                     "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
                 ],
-                proxima: 4,
+                proxima: 3,
             },
         ]
     },
@@ -62,7 +62,7 @@ export const perguntas = [
                     "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
                     "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
                 ],
-                proxima: 4,
+                proxima: 3,
             },
         ]
     },
@@ -75,7 +75,7 @@ export const perguntas = [
                     "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
                     "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
                 ],
-                proxima: 5,
+                proxima: 4,
             },
             {
                 texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
@@ -83,7 +83,7 @@ export const perguntas = [
                     "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
                     "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
                 ],
-                proxima: 6,
+                proxima: 4,
             },
         ]
     },
